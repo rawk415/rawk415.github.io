@@ -3,7 +3,7 @@ layout: post
 title: "2019-09-23 TIL"
 subtitle: "Today I Learn"
 categories: TIL
-# tags:
+tags: TIL
 ---
 # 이 주의 계획
     * TIL을 꾸준히 작성하자.
