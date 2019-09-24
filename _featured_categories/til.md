@@ -1,7 +1,7 @@
 ---
 layout: list
 title: TIL
-slug: today i learn
+slug: til
 menu: true
 submenu: false
 order: 3

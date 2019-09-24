@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: JAVA
-slug: JAVA
+slug: java
 category: devlog
 menu: false
 order: 2
