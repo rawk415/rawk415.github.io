@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "공개키 암호"
+title: "하이브리드 암호"
 subtitle: "현대 암호"
 categories: devlog
 tags: security
