@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA로 만드는 Black Jack - 요구사항 분석"
+title: "JAVA로 만드는 Black Jack - 요구사항"
 subtitle: "Swing"
 categories: devlog
 tags: java
