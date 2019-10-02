@@ -1,0 +1,20 @@
+---
+layout: post
+title: "2019-09-25 TIL"
+subtitle: "Today I Learn"
+categories: til
+tags: til
+---
+
+# 오늘 한 일
+   - MarkDown으로 오늘 배운 스트림 암호와 블록 암호에 대해 정리하려고 했지만, 생각보다 시간이 오래 걸려서 오늘은 스트임 암호에 대해서만 정리했다.
+   - XP(Extreme Programming) 5장 원칙 부분을 읽었다. 우리가 프로젝트를 진행할 때 지켜면 좋을 원칙들을 알 수 있었다.
+  
+
+# 이 주의 계획
+   - TIL을 꾸준히 작성하자.
+   - XP(Extreme Programming) 16장까지 읽기
+   - 컴퓨터 구조 인강 듣기
+   - JAVA 프로젝트 설계하기
+
+
