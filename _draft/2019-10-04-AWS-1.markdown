@@ -1,0 +1,21 @@
+---
+layout: post
+title: "스트림 암호와 XOR 연산"
+subtitle: "현대암호"
+categories: devlog
+tags: aws
+---
+ssh 
+secure shell
+port num 22
+
+telnet
+port num 23
+un secure shell
+
+시스템을 처음 세팅할 때 system time을 세팅해줘야한다.
+
+
+
+
+
