@@ -5,7 +5,7 @@ subtitle: "현대암호"
 categories: devlog
 tags: linux
 ---
-#### 마우스 사용하지 말 것
+#### `마우스 사용하지 말 것`
 
 ---
 ## 이동 관련 명령어
