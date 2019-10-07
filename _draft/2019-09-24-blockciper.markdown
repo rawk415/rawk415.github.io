@@ -6,7 +6,7 @@ categories: devlog
 tags: security
 ---
 
-# 블록암호(Block Cipher)
+## 블록암호(Block Cipher)
 고정된 크기의 블록단위로 평문을 나누는 것
 ### 블록 길이(Block Length)
 ---
@@ -21,7 +21,7 @@ tags: security
 블록암호의 모드별 암호화/복호화 방법 그림 그려보기
 --------------------------------------------------------------------------------
 
-## CTR Mode(CounTeR Mode)
+### CTR Mode(CounTeR Mode)
 CTR 을 암호화 시킨 후 평문 블록을 CTR과 Xor 연산을 한다.
 평문이 암호화에 사용되지 않는 스트림 방식이라 암호화된 CTR를  재사용 가능
 

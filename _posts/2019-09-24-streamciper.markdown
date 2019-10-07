@@ -6,7 +6,7 @@ categories: devlog
 tags: security
 ---
 
-# 스트림 암호(Stream Ciper)
+## 스트림 암호(Stream Ciper)
 입력되는 요소를 **연속적**으로 처리해 지속적으로 한 번에 한 요소씩 배출하는 방식이다.(데이터를 순차적으로 처리한다.)  
 
 스트림 암호의 대표적인 예시인 일회용 패드(One-Time Pad)는 암호학에서 많이 쓰이는 방식인 XOR 연산(비트 연산)을 기초로 한다.  

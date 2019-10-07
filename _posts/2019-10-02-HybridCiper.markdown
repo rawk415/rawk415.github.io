@@ -5,7 +5,7 @@ subtitle: "현대 암호"
 categories: devlog
 tags: security
 ---
-# 하이브리드 암호
+## 하이브리드 암호
 대칭키 암호(속도)와 공개 키 암호(키 배송)의 장점을 뽑아 만든 암호.
 
 ## 암호화 방법
