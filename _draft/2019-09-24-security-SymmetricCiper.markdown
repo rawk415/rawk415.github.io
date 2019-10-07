@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "대칭 암호"
+title: "대칭키 암호"
 subtitle: "현대 암호"
 categories: devlog
 tags: security
