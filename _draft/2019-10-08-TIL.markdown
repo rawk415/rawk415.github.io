@@ -6,9 +6,9 @@ categories: til
 tags: til
 ---
 ## 오늘 할 일
-- ~~TIL 작성~~
-- ~~JSP 강의평가 클론코딩~~
-- ~~JSP 기초 완강~~
+- TIL 작성
+- JSP 강의평가 클론코딩
+- aws 실습해보기
 
 
 ## 오늘 한 일
