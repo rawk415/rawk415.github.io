@@ -147,6 +147,7 @@ id(10.0)
 # 64057328
 ```
 
+---
 
 ## 몫과 나머지 구하기 `divmod()`
 `divmod()`를 사용하면 몫과 나머지가 튜플(tuple) 형태로 동시에 나온다.
@@ -252,6 +253,19 @@ type(a) type(b)
 ```python
 print(1, 2, 3, 'Hello', 'python')
 # 1 2 3 Hello python
+```
+
+### 여러 줄 문자열`""" """`
+`print()`의 인자를 따옴표`' '` 하나로 감싸지 않고 3개로`''' '''` 감싸면 `print()`문을 여러 번 쓰지 않고 여러 줄에 걸쳐 출력할 수 있다.
+
+```python
+print('''hi
+my name is
+python''')
+
+# hi
+# my name is
+# python
 ```
 
 ### 값 사이 문자 지정 `sep=''`
