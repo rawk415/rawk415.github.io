@@ -6,7 +6,7 @@ categories: devlog
 tags: java
 ---
 
-# 1. JUnit5
+# 1.1. JUnit5
 JUnit5는 이전 버전과는 다르게 3개의 모듈로 구성된다.    
 ### `JUnit5 = JUnit Platform + JUnit Jupiter + JUnit Vintage`
 <br>
@@ -23,11 +23,11 @@ JUnit Jupiter는 JUnit5의 `Test 작성`과 `extension`을 지원하는 TestEngi
 ### JUnit Vintage
 JUnit Vintage는 JUnit3와 JUnit4을 지원하는 TestEngine을 제공한다.
 
-# 2. 지원하는 Java Versions
+# 1.2. 지원하는 Java Versions
 JUnit5는 Java8 이상의 JDK를 필요로 한다.   
 Java8 이하의 JDK에서도 테스트를 해볼 순 있다.   
 
-# 3. Getting Help
+# 1.3. Getting Help
 JUnit5와 관련된 질문은 [Stack Overflow][SO]와 [Gitter][G]를 통해 할 수 있다.
 
 [SO]: https://stackoverflow.com/questions/tagged/junit5
