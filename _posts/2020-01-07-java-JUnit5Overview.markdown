@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JUnit5 개요"
-subtitle: "JUnit5"
+subtitle: "JUnit5 Overview"
 categories: devlog
 tags: java
 ---
