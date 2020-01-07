@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-isme2n:
+rawk415:
   name:              rawk Kwon
   email:             rawk415@gmail.com
 
@@ -62,7 +62,7 @@ isme2n:
 
 # Another author
 mdo:
-  name:              <firtname> <lastname>
+  name:              <hoechang> <Kwon>
   email:             <mail@domain.tld>
   about:             |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
@@ -72,7 +72,7 @@ mdo:
     Open `_data/authors.yml` to edit this text.
   picture:           https://placehold.it/128x128
   social:
-    github:          <username>
+    github:          <rawk415>
     twitter:         <username>
   image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
   color: '#268bd2'
