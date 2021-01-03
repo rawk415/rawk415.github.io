@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "var, let, const 차이"
+title: "JS var, let, const 차이"
 subtitle: "js"
 categories: devlog
 tags: js
