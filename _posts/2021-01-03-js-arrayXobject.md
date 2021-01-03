@@ -44,11 +44,15 @@ const rawkInfo = {
       director: "Bong Joon Ho"
     }
   ], // (,)를 빼먹어선 안된다.
+  favoriteNumber: function() {
+    return 7;
+  },
   hasGirlfriend: true
 }
 
 console.log(rawkInfo.age); // 24
 console.log(rawkInfo.favoriteMovie[1].name); // Parasite
+console.log(rawkInfo.favoriteNumber()); // 7
 
 ```
 
