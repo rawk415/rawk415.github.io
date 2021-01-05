@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Uncontact"
-subtitle: "김용섭"
+title: "Uncontact - 김용섭"
+subtitle: "경제/경영"
 categories: book
 tags: Book
 ---
