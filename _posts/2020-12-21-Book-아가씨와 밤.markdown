@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "아가씨와 밤"
-subtitle: "기욤 뮈소"
+title: "아가씨와 밤 - 기욤 뮈소"
+subtitle: "소설"
 categories: book
 tags: Book
 ---
