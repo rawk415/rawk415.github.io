@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "예민함 내려놓기"
-subtitle: "오카다 다카시"
+title: "예민함 내려놓기 - 오카다 다카시"
+subtitle: "심리"
 categories: book
 tags: Book
 ---
